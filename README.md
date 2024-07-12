@@ -8,6 +8,10 @@
 
 I am Tsuki Kami, a German Software Developer with a passion for backend development and logic-based programming. I am fluent in German and English, and currently learning Japanese. 
 
+I am currently in an apprenticeship ("Ausbildung zum Fachinformatiker für Anwendungsentwicklung, dual"). My experience includes developing Azure Functions, Web Applications (Razor and Blazor, MVC), Web APIs (MVC), Console Applications, WinForms applications, and Libraries using .NET. I have also developed many API usage libraries and programs.
+
+In my free time, I enjoy learning new languages, exploring the latest tech trends, and working on Minecraft mod and plugin development, as well as Lua ComputerCraft.
+
 ## 🔧 Technologies & Tools
 
 ### Languages
@@ -24,16 +28,32 @@ I am Tsuki Kami, a German Software Developer with a passion for backend developm
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=entity-framework&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Powershell](https://img.shields.io/badge/Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+### Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azure-functions&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Ngrok](https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
+
+### Databases
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### Others
+![Power Automate](https://img.shields.io/badge/Power_Automate-0062AD?style=for-the-badge&logo=power-automate&logoColor=white)
+![Make](https://img.shields.io/badge/Make-0096D6?style=for-the-badge&logo=make&logoColor=white)
 
 ## 🔗 Connect with Me
 
@@ -53,9 +73,8 @@ I am Tsuki Kami, a German Software Developer with a passion for backend developm
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kami-tsuki&repo=azure-blue&theme=radical)](https://github.com/kami-tsuki/azure-blue)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kami-tsuki&repo=db-nav-clone-angular&theme=radical)](https://github.com/kami-tsuki/db-nav-clone-angular)
 
-
-
 ## 💡 Fun Fact
-In my free time, I enjoy learning new languages and exploring the latest tech trends.
+
+I also have experience developing Discord Bots and Microsoft Teams Bots.
 
 ![Profile views](https://komarev.com/ghpvc/?username=kami-tsuki&color=blueviolet)
