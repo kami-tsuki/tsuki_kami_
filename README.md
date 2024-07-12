@@ -57,7 +57,7 @@ In my free time, I enjoy learning new languages, exploring the latest tech trend
 
 ## 🔗 Connect with Me
 
-[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tsuki.wtf)
+[![tsuki.wtf](https://img.shields.io/badge/Tsuki-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tsuki.wtf)
 
 ## 🏆 Achievements
 
